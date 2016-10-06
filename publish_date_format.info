@@ -1,0 +1,6 @@
+name = Publish Date Format
+description = Allows Publish Date Format option for choose date formate display in node detail page.
+core = 7.x
+package = publish date formate
+
+dependencies[] = date
